@@ -8,6 +8,7 @@ setup(name='nb-assets',
       author='Andreas Klostermann',
       author_email='andreas.klostermann@gmail.com',
       packages=['nb_assets'],
+      install_requires=['pygments']
      )
 
 
